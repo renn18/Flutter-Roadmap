@@ -5,7 +5,7 @@
 ![roadmap](images/FlutterRoadmap.png)
 
 #### Referensi
-* [Oleksandr Leushchenko](https://github.com/olexale/)
+* [Oleksandr Leushchenko](https://github.com/olexale/) (owner)
 * [Muhammad Putra Pratama](https://github.com/renn18/)
 
 #### Dev Environment
