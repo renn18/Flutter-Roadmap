@@ -4,8 +4,10 @@
 
 ![roadmap](images/FlutterRoadmap.png)
 
+#### Referensi
+
 #### Dev Environment
-* [Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts) - Shortcuts to speed up development in Android Studio.
+* [Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts) - Kunci Pintasan guna untuk mepercepat pengembangan aplikasi.
 * [VSCode Shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Shortcuts to speed up development in VSCode.
 * [Flutter CLI](https://www.geeksforgeeks.org/flutter-important-cli-commands/) - Detailed Explanation to all the Flutter CLI commands.
 * [DartPad Tutorial](https://dart.dev/resources/dartpad-best-practices) - Everything DartPad has to offer.
