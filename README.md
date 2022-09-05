@@ -6,7 +6,7 @@
 
 ### Referensi
 #### Oleksandr Leushchenko
-* [Github](https://github.com/olexale/) (owner) :ukraine:
+* [Github](https://github.com/olexale/) (owner) :purple_square:
 * [Twitter](https://twitter.com/olexale)
 #### Muhammad Putra Pratama
 * [Github](https://github.com/renn18/) (contributor) :indonesia:
