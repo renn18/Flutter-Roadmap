@@ -6,9 +6,13 @@
 
 ### Referensi
 #### Oleksandr Leushchenko
-* [Github](https://github.com/olexale/) (owner)
+* [Github](https://github.com/olexale/) (owner) :ukraine:
+* [Twitter](https://twitter.com/olexale)
 #### Muhammad Putra Pratama
-* [Github](https://github.com/renn18/) (contributor)
+* [Github](https://github.com/renn18/) (contributor) :indonesia:
+* [Twitter](https://twitter.com/renn_tutorial)
+
+
 
 ### Dev Environment
 * [Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts) - Kunci Pintasan Android Studio untuk mempercepat dan mempermudah developer dalam pengembangan aplikasi.
@@ -106,4 +110,4 @@
 * https://developer.android.com/distribute/best-practices/launch/launch-checklist
 
 ## Kontribusi
-Jangan menghapus link yang bermanfaat, atau mengganti roadmap. 
+Jangan menghapus link yang bermanfaat, atau mengganti roadmap. Kami sangat menghargai anda!
