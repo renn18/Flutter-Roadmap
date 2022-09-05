@@ -5,6 +5,8 @@
 ![roadmap](images/FlutterRoadmap.png)
 
 #### Referensi
+* [Oleksandr Leushchenko](https://github.com/olexale/)
+* [Muhammad Putra Pratama](https://github.com/renn18/)
 
 #### Dev Environment
 * [Android Studio Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts) - Kunci Pintasan guna untuk mepercepat pengembangan aplikasi.
