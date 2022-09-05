@@ -4,12 +4,15 @@
 
 ![roadmap](images/FlutterRoadmap.png)
 
+
+
+
 ### Referensi
 #### Oleksandr Leushchenko
-* [Github](https://github.com/olexale/) (owner) :purple_square:
+* [Github](https://github.com/olexale/) (owner)
 * [Twitter](https://twitter.com/olexale)
 #### Muhammad Putra Pratama
-* [Github](https://github.com/renn18/) (contributor) :indonesia:
+* [Github](https://github.com/renn18/) (contributor)
 * [Twitter](https://twitter.com/renn_tutorial)
 
 
